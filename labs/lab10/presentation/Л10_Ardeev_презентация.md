@@ -1,14 +1,13 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Лабораторная работа №10
-subtitle: Операционные системы
+title: Структура научной презентации
+subtitle: Простейший шаблон
 author:
   -  Ардеев Н. Е.
 institute:
   - Российский университет дружбы народов, Москва, Россия
-
-date: 19 марта 2023
+  
 
 ## i18n babel
 babel-lang: russian
@@ -27,14 +26,6 @@ header-includes:
  - '\beamer@ignorenonframefalse'
  - '\makeatother'
 ---
-
-
-::: {.column width="30%"}
-
-![](./image/я.jpg)
-
-:::
-::::::::::::::
 
 ## Цель работы
 
